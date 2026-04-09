@@ -1,6 +1,6 @@
 <div align="center">
 
-# 网红.skill
+# influencer.skill
 
 > *"内容为王，但互动才是帝国。"*
 
@@ -49,8 +49,6 @@
 git clone https://github.com/yahao333/influencer.skill ~/.claude/skills/influencer
 ```
 
----
-
 ## 使用
 
 在 Claude Code 中输入：
@@ -59,14 +57,13 @@ git clone https://github.com/yahao333/influencer.skill ~/.claude/skills/influenc
 /influencer
 ```
 
-### 命令
+### 管理命令
 
 | 命令 | 说明 |
 |------|------|
-| `/influencer` | 调用完整 Skill |
-| `/influencer-content` | 内容创作模式 |
-| `/influencer-engage` | 粉丝互动模式 |
-| `/influencer-caption` | 标题文案模式 |
+| `/influencer` | 调用 Influencer Skill 创建器 |
+| `/list-influencers` | 列出所有已创建的 Influencer Skill |
+| `/delete-influencer {slug}` | 删除指定 Influencer Skill |
 
 ---
 

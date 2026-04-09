@@ -49,8 +49,6 @@ and get an **AI Skill that carries their creator essence**
 git clone https://github.com/yahao333/influencer.skill ~/.claude/skills/influencer
 ```
 
----
-
 ## Usage
 
 In Claude Code, type:
@@ -59,14 +57,13 @@ In Claude Code, type:
 /influencer
 ```
 
-### Commands
+### Management Commands
 
 | Command | Description |
 |---------|-------------|
-| `/influencer` | Invoke full Skill |
-| `/influencer-content` | Content creation mode |
-| `/influencer-engage` | Fan engagement mode |
-| `/influencer-caption` | Caption/copywriting mode |
+| `/influencer` | Invoke Influencer Skill creator |
+| `/list-influencers` | List all created Influencer Skills |
+| `/delete-influencer {slug}` | Delete specified Influencer Skill |
 
 ---
 
@@ -94,7 +91,7 @@ influencer.skill ❯ Don't panic yet, this is actually a good signal.
                   It means fans are watching you seriously,
                   so they feel let down when expectations aren't met.
                   You could do a poll to ask what they want to see,
-                 ，顺便刷一波互动.
+                  to boost engagement.
 ```
 
 ---
