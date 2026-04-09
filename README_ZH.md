@@ -1,8 +1,8 @@
 <div align="center">
 
-# influencer.skill
+# 网红.skill
 
-> *"Content is king, but engagement is empire."*
+> *"内容为王，但互动才是帝国。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
@@ -11,19 +11,19 @@
 
 <br>
 
-Every influencer has their unique content style, their signature hooks,
-the way they engage with comments, their brand voice,
-and the specific energy they bring to every post.
+每个网红都有自己独特的内容风格、招牌钩子，
+他们与粉丝互动的方式、个人品牌调性，
+以及每条内容带来的特别能量。
 
-**Preserve content wisdom and style — welcome to cyber-immortality!**
+**保留内容创作智慧和风格 —— 欢迎加入赛博永生！**
 
 <br>
 
-Provide source materials (videos, posts, comments, chat logs, self-descriptions)
-plus your understanding of their content style,
-and get an **AI Skill that carries their creator essence**
+提供原材料（视频、图文、评论互动、聊天记录、自我描述）
+加上你对他们内容风格的理解，
+生成一个**承载他们创作者灵魂的 AI Skill**
 
-[数据来源](#支持的数据来源) · [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [详细安装说明](INSTALL.md)
+[支持的数据来源](#支持的数据来源) · [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [详细安装说明](INSTALL.md)
 
 [**English**](README_EN.md) · [**中文**](README_ZH.md)
 
