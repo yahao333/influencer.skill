@@ -57,15 +57,6 @@ git clone https://github.com/yahao333/influencer.skill ~/.claude/skills/influenc
 /influencer
 ```
 
-### 管理命令
-
-| 命令 | 说明 |
-|------|------|
-| `/influencer` | 调用 Influencer Skill 创建器 |
-| `/list-influencers` | 列出所有已创建的 Influencer Skill |
-| `/delete-influencer {slug}` | 删除指定 Influencer Skill |
-
----
 
 ## 效果示例
 
