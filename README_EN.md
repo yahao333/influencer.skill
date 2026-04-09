@@ -57,15 +57,6 @@ In Claude Code, type:
 /influencer
 ```
 
-### Management Commands
-
-| Command | Description |
-|---------|-------------|
-| `/influencer` | Invoke Influencer Skill creator |
-| `/list-influencers` | List all created Influencer Skills |
-| `/delete-influencer {slug}` | Delete specified Influencer Skill |
-
----
 
 ## Demo
 
